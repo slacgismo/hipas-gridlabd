@@ -1,6 +1,6 @@
 # HiPAS GridLAB-D Development Products
 
-CEC Project EPC-17-046 Deliverables
+This repository contain CEC Project EPC-17-046 deliverables. In most cases the all the deliverables for a task have been consolidated in a single document under the title of the task. 
 
 ## Task 1 - General Project Tasks
 - Final Report
