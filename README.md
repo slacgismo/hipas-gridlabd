@@ -15,14 +15,15 @@ This repository contain CEC Project EPC-17-046 deliverables. In most cases the a
 - Software Design Presentation
 
 ## Task 3 - Software Implementation
-- Software Implementation Presentation
-- Multi-threading Iterators Source Code Presentation
-- Job Control Source Code Presentation
-- Multi-threaded Solvers Source Code Presentation
-- Stochastic Properties Source Code Presentation
-- Fast Data Access Source Code Presentation
-- Fast Powerflow Solver Source Code Presentation
-- Online Documentation Source Code Presentation
+1. Software Implementation Presentation
+2. Source Code Presentations
+  - Multi-threading Iterators Source Code Presentation
+  - Job Control Source Code Presentation
+  - Multi-threaded Solvers Source Code Presentation
+  - Stochastic Properties Source Code Presentation
+  - Fast Data Access Source Code Presentation
+  - Fast Powerflow Solver Source Code Presentation
+  - Online Documentation Source Code Presentation
 
 ## Task 4 - Performance Analysis
 - Release 1 Performance Issues Presentation
