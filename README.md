@@ -1,6 +1,6 @@
 # HiPAS GridLAB-D Development Products
 
-This repository contain CEC Project EPC-17-046 deliverables. In most cases the deliverables for a task have been consolidated in a single document under the title of the task. Bulleted item denote deliverables identified in the original SOW.
+This repository contain CEC Project EPC-17-046 deliverables. In some cases the deliverables for a task have been consolidated in a single document under the title of the task. Bulleted items denote deliverables identified in the original SOW.
 
 ## Task 1 - General Project Tasks
 1. [Final Report](Task%201%20%20-%20Final%20Report.pdf) PENDING
