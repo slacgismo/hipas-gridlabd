@@ -13,7 +13,7 @@ This repository contain CEC Project EPC-17-046 deliverables. In some cases the d
 7. [Validation Models Addendum](Task%201.7%20-%20Validation%20Models%20Addendum.pdf)
 
 ## Task 2 - Requirements Analysis
-1. [Requirements Analysis Products](Task%202.1%20-%20Requirements%20Analysis%20Products.pdf) ([Issue 7](/../../issues/7))
+1. [Requirements Analysis Products](Task%202.1%20-%20Requirements%20Analysis%20Products.pdf)
 - HIPAS GridLAB-D Release Requirements Presentation
 - Use Case Requirements Presentation
 - Performance and Baseline Analysis Presentation
