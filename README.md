@@ -40,7 +40,7 @@ This repository contain CEC Project EPC-17-046 deliverables. In some cases the d
 1. [Performance Analysis Presentation](Task%204.1%20-%20Performance%20Analysis%20Presentation.pdf)
   - [x] Performance Evaluation Presentation 
   - [x] Release 1 Performance Issues Presentation
-2. [Performance Analysis Report](Task%204.2%20-%20Performance%20Analysis%20Report.pdf)
+2. [Performance Analysis Report](Task%204.2%20-%20Performance%20Analysis%20Report.pdf) ([Issue 25](/../../issues/25))
   - [x] Performance Analysis CPR Report
   - [x] Release 1 Performance Evaluation Presentation
 3. [Performance Analysis Report Addendum](Task%204.3%20-%20Performance%20Analysis%20Report%20Addendum.pdf)
@@ -65,7 +65,7 @@ This repository contain CEC Project EPC-17-046 deliverables. In some cases the d
   - [ ] Final Project Fact Sheet
 3. [Final Presentation](Task%207.3%200%20Final%20Presentation.pdf) ([Issue 23](/../../issues/23))
   - [ ] Final Presentation
-4. [Technology Transfer Plan](Task%207.4%20-%20Draft%20Technology%20Transfer%20Plan.pdf)
+4. [Technology Transfer Plan](Task%207.4%20-%20Technology%20Transfer%20Plan.pdf)
   - [x] Technology/Knowledge Transfer Plan
 5. [Technology Transfer Report](Task%207.5%20-%20Technology%20Transfer%20Report.pdf) ([Issue 24](/../../issues/24))
   - [ ] Technology/Knowledge Transfer Report
