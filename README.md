@@ -3,7 +3,7 @@
 This repository contain CEC Project EPC-17-046 deliverables. In some cases the deliverables for a task have been consolidated in a single document under the title of the task. Checklist items denote deliverables identified in the original SOW.
 
 ## Task 1 - General Project Tasks
-1. [Final Report](Task%201.1%20%20-%20Final%20Report.pdf) ([Issue 16](/../../issues/16))
+1. [Final Report](Task%201.1%20-%20Final%20Report.pdf) ([Issue 16](/../../issues/16))
 - [x] Final Report
 2. [Requirements Addendum](Task%201.2%20-%20Requirements%20Addendum.pdf)
 3. [Implementation Addendum](Task%201.3%20-%20Implementation%20Addendum.pdf)
