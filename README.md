@@ -4,7 +4,7 @@ This repository contain CEC Project EPC-17-046 deliverables. In some cases the d
 
 ## Task 1 - General Project Tasks
 1. [Final Report](Task%201.1%20%20-%20Final%20Report.pdf) ([Issue 16](/../../issues/16))
-- [ ] Final Report
+- [x] Final Report
 2. [Requirements Addendum](Task%201.2%20-%20Requirements%20Addendum.pdf)
 3. [Implementation Addendum](Task%201.3%20-%20Implementation%20Addendum.pdf)
 4. [Performance Addendum](Task%201.4%20-%20Performance%20Addendum.pdf) ([Issue 17](/../../issues/17))
