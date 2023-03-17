@@ -48,8 +48,8 @@ This repository contain CEC Project EPC-17-046 deliverables. In some cases the d
   - [x] Release 2 Performance Evaluation Presentation
 
 ## Task 5 - Final Product Documentation
-1. [Production Release Documentation](Task%205.1%20-%20Production%20Release%20Documentation.pdf) ([Issue 20](/../../issues/20))
-  - [ ] Final Production Release Presentation
+1. [Production Release Documentation](Task%205.1%20-%20Production%20Release%20Documentation.pdf) 
+  - [x] Final Production Release Presentation
 
 ## Task 6 - Evaluation of Project Benefits
 1. [Kick-off Meeting Benefits Questionnaire](Task%206.1%20-%20Kick-off%20Meeting%20Benefits%20Questionnaire.pdf)
