@@ -55,7 +55,7 @@ This repository contain CEC Project EPC-17-046 deliverables. In some cases the d
 1. [Kick-off Meeting Benefits Questionnaire](Task%206.1%20-%20Kick-off%20Meeting%20Benefits%20Questionnaire.pdf)
   - [x] Kick-off Meeting Benefits Questionnaire 
   - [x] Mid-term Benefits Questionnaire (unchanged)
-2. [Final Meeting Benefits Questionary](Task%206.2%20-%20Final%20Meeting%20Benefits%20Questionaire.pdf) ([Issue 21](/../../issues/21))
+2. [Final Meeting Benefits Questionary](Task%206.2%20-%20Final%20Meeting%20Benefits%20Questionaire.pdf) ([Issue 23](/../../issues/23))
   - [ ] Final Meeting Benefits Questionnaire
 
 ## Task 7 - Technology/Knowledge Transfer Activities
@@ -63,7 +63,7 @@ This repository contain CEC Project EPC-17-046 deliverables. In some cases the d
   - [x] Initial Fact Sheet
 2. [Final Fact Sheet](Task%207.2%20-%20Final%20Fact%20Sheet.pdf)
   - [x] Final Project Fact Sheet
-3. [Final Presentation](Task%207.3%200%20Final%20Presentation.pdf) ([Issue 23](/../../issues/23))
+3. [Final Presentation](Task%207.3%200%20Final%20Presentation.pdf) ([Issue 22](/../../issues/22))
   - [ ] Final Presentation
 4. [Technology Transfer Plan](Task%207.4%20-%20Technology%20Transfer%20Plan.pdf)
   - [x] Technology/Knowledge Transfer Plan
