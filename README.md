@@ -61,8 +61,8 @@ This repository contain CEC Project EPC-17-046 deliverables. In some cases the d
 ## Task 7 - Technology/Knowledge Transfer Activities
 1. [Initial Fact Sheet](Task%207.1%20-%20Initial%20Fact%20Sheet.pdf)
   - [x] Initial Fact Sheet
-2. [Final Fact Sheet](Task%207.2%20-%20Final%20Fact%20Sheet.pdf) ([Issue 22](/../../issues/22))
-  - [ ] Final Project Fact Sheet
+2. [Final Fact Sheet](Task%207.2%20-%20Final%20Fact%20Sheet.pdf)
+  - [x] Final Project Fact Sheet
 3. [Final Presentation](Task%207.3%200%20Final%20Presentation.pdf) ([Issue 23](/../../issues/23))
   - [ ] Final Presentation
 4. [Technology Transfer Plan](Task%207.4%20-%20Technology%20Transfer%20Plan.pdf)
