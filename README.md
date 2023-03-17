@@ -67,5 +67,5 @@ This repository contain CEC Project EPC-17-046 deliverables. In some cases the d
   - [ ] Final Presentation
 4. [Technology Transfer Plan](Task%207.4%20-%20Technology%20Transfer%20Plan.pdf)
   - [x] Technology/Knowledge Transfer Plan
-5. [Technology Transfer Report](Task%207.5%20-%20Technology%20Transfer%20Report.pdf) ([Issue 24](/../../issues/24))
+5. [Technology Transfer Report](Task%207.5%20-%20Technology%20Transfer%20Report.pdf) 
   - [ ] Technology/Knowledge Transfer Report
