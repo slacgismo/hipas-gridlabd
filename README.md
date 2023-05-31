@@ -8,7 +8,7 @@ This repository contain CEC Project EPC-17-046 deliverables. In some cases the d
 2. [Requirements Addendum](Task%201.2%20-%20Requirements%20Addendum.pdf)
 3. [Implementation Addendum](Task%201.3%20-%20Implementation%20Addendum.pdf)
 4. [Performance Addendum](Task%201.4%20-%20Performance%20Addendum.pdf) ([Issue 17](/../../issues/17))
-5. [Ratepayer Benefits Addendum](Task%201.5%20-%20Ratepayer%20Benefits%20Addendum.pdf) ([Issue 18](/../../issues/18))
+5. [Ratepayer Benefits Addendum](Task%201.5%20-%20Ratepayer%20Benefits%20Addendum.pdf) 
 6. [Glossary of Terms](Task%201.6%20-%20Glossary%20of%20Terms.pdf)
 7. [Validation Models Addendum](Task%201.7%20-%20Validation%20Models%20Addendum.pdf)
 
