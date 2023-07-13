@@ -63,8 +63,8 @@ This repository contain CEC Project EPC-17-046 deliverables. In some cases the d
   - [x] Initial Fact Sheet
 2. [Final Fact Sheet](Task%207.2%20-%20Final%20Fact%20Sheet.pdf)
   - [x] Final Project Fact Sheet
-3. [Final Presentation](Task%207.3%200%20Final%20Presentation.pdf) ([Issue 22](/../../issues/22))
-  - [ ] Final Presentation
+3. [Final Presentation](Task%207.3%200%20Final%20Presentation.pdf)
+  - [x] Final Presentation
 4. [Technology Transfer Plan](Task%207.4%20-%20Technology%20Transfer%20Plan.pdf)
   - [x] Technology/Knowledge Transfer Plan
 5. [Technology Transfer Report](Task%207.5%20-%20Technology%20Transfer%20Report.pdf) 
